@@ -1,6 +1,7 @@
 .cardcontainer{
-    width: 20%;
+    width: 30%;
     border: black solid 4px;
-    border-radius: 6%;
-    box-shadow: 10px 5px 5px rebeccapurple;
+    border-radius: 20px;
+    box-shadow: 10px 5px 5px #D79E9D;
+    padding: 20px;
 }

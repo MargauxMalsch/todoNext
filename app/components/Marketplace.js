@@ -10,7 +10,7 @@ export default function Marketplace() {
 
            <Card title="Chaise rose" 
             image="https://www.dya-shopping.fr/media/catalog/product/cache/6e9884bff056c6c2163c6eec14da61cc/c/h/chaise-en-velours-rose-et-pieds-en-metal-ariel-2.jpg"
-            desc="Une chaise" price="900€"/>
+            desc="Chaise moelleuse pour pas avoir mal à ses fesses" price="900"/>
            
        </div>
    )

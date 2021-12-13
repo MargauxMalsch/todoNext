@@ -15,5 +15,8 @@ a {
   box-sizing: border-box;
 }
 button{
-  background-color: pink;
+  padding: 10px 20px;
+  background-color: #D79E9D;
+  border: none;
+  cursor: pointer;
 }
