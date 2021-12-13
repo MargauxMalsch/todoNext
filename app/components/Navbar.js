@@ -2,12 +2,15 @@ import React, { useState, useEffect } from 'react';
 import styles from '../styles/Navbar.module.css';
 
 export default function NavBar() {
+    const[user, setUser] = useState(null);
    return(
        <div className={styles.navcontainer}>
-<p>dandan</p>
-<p>floflo</p>
-<p>mini popow</p>
+<h3>NTF Marketplace</h3>
+<p>Menu</p>
+<div>
+    { user ? (<button> Logout </button>) : (<button> Login </button>) }
+</div>
        </div>
    )
 
-}
+} 
